@@ -1,3 +1,4 @@
+/*ËØÊıÉ¸Ñ¡·¨*/ 
  #include<cstdio>
  using namespace std;
  

@@ -1,3 +1,4 @@
+/*树状数组*/
 class BIT{
 public:
 	int tree[10005];    //数组下标从1开始，vals同 
